@@ -8,11 +8,14 @@ The primary objective of this project is to perform a comprehensive exploratory 
 ### Results
 A Logistic Regression model was selected and trained to serve as the baseline for this project. The model's performance on the test data was evaluated using several metrics:
 
-Overall Accuracy: The model achieved an accuracy of approximately 59.8%.
+#### Overall Accuracy: 
+The model achieved an accuracy of approximately 64.3%.
 
-Detailed Metrics: A classification report provided a breakdown of the model's precision, recall, and F1-score for each price_category, offering a more granular view of its performance.
+#### Detailed Metrics: 
+A classification report provided a breakdown of the model's precision, recall, and F1-score for each price_category, offering a more granular view of its performance.
 
-Confusion Matrix: A confusion matrix was generated to visualize the model's predictions and identify where it was making correct and incorrect classifications.
+#### Confusion Matrix: 
+A confusion matrix was generated to visualize the model's predictions and identify where it was making correct and incorrect classifications.
 
 ### Findings
 Through the EDA process, several key insights were discovered:
