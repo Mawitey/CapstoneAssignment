@@ -1,6 +1,5 @@
 # USA REAL ESTATE
-
-Here is link to the notebook - https://github.com/Mawitey/CapstoneAssignment/blob/main/Capstone%20Assignment.ipynb
+This is capstone assignment and here is link to the notebook - https://github.com/Mawitey/CapstoneAssignment/blob/main/Capstone%20Assignment.ipynb
 
 ###  Problem statement
 The primary objective of this project is to perform a comprehensive exploratory data analysis (EDA) on a real estate dataset. This is done to understand the underlying patterns and relationships between variables such as house price, size, and location. Following the EDA, a baseline machine learning model is developed to provide a starting point for more complex predictive modeling, allowing for a clear evaluation of future model improvements.
