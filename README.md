@@ -38,6 +38,3 @@ Experimenting with more sophisticated machine learning models, such as DecisionT
 #### Hyperparameter Tuning: 
 Systematically tuning the hyperparameters of the chosen model to find the optimal configuration that maximizes performance.
 
-Cross-Validation: Implementing cross-validation to get a more robust estimate of the model's performance and to prevent overfitting.
-
-Further Feature Engineering: Creating additional features from the existing data or incorporating external data to provide more information to the model.
